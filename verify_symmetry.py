@@ -1,8 +1,8 @@
 # =================================================================
 # PROJECT: Riemann Zeta Functional Symmetry Verification
-# AUTHOR: [Your Name]
+# AUTHOR: [Aditya Kumar Anand]
 # CONTEXT: Independent Research / JEE Advanced 2026 Aspirant
-# COPYRIGHT: (c) 2026 [Your Name]. All Rights Reserved.
+# COPYRIGHT: (c) 2026 [Aditya Kumar Anand]. All Rights Reserved.
 # PURPOSE: Numerical analysis of "Symmetry Leakage" using De Moivre 
 #          rotations to verify the Critical Line constraint.
 # =================================================================
