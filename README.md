@@ -1,6 +1,6 @@
 # Numerical Verification of Riemann Zeta Symmetry-Breaking Constraints
 
-**Author:** [Your Name]  
+**Author:** [Aditya Kumar Anand]  
 **Academic Context:** JEE Advanced 2026 Aspirant | Independent Mathematical Researcher  
 **Status:** Proprietary Research (Pre-Submission Phase)
 
@@ -28,7 +28,7 @@ The provided Python implementation (`verify_symmetry.py`) provides a high-precis
 As a student preparing for **JEE Advanced 2026**, I apply the same conceptual rigor and intensive problem-solving discipline required for one of the world's most difficult entrance exams to the resolution of the Riemann Hypothesis. This project represents the intersection of competitive academic excellence and original mathematical discovery.
 
 ## 5. Proprietary Notice & Usage Restrictions
-**Copyright (c) 2026 [Your Name]. All Rights Reserved.**
+**Copyright (c) 2026 [Aditya Kumar Anand]. All Rights Reserved.**
 
 **STRICTLY FOR EVALUATION PURPOSES ONLY.**
 
